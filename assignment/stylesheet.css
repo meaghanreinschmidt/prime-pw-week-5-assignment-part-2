@@ -1,12 +1,13 @@
-header {
+.header {
     background-color: #2E4053;
     color: #9A7D0A;
     text-align: center;
 }
 
-main {
+.output {
     background-color: lightgrey;
     padding: 1em;
+    text-align: center;
 }
 
 body {
