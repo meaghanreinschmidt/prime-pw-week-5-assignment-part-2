@@ -1,0 +1,16 @@
+header {
+    background-color: #2E4053;
+    color: #9A7D0A;
+    text-align: center;
+}
+
+main {
+    background-color: lightgrey;
+    padding: 1em;
+}
+
+body {
+    background-image: url("record.png");
+    background-repeat: repeat;
+    margin: 0;
+}
